@@ -60,6 +60,12 @@ Aplicação FastAPI para revisão estruturada de contratos com apoio de IA, cont
 
 Aplicação web para planejamento e execução de treinos, acompanhamento de sessões, histórico e análise de evolução.
 
+### [Calculadora de Doses de Peptídeos](https://github.com/EduMiranda78/calculadora-pepitideos)
+
+Calculadora web responsiva para reconstituição, concentração e equivalência em seringas U-100, com suporte a mg, mcg e UI.
+
+**Aplicação:** [calculadora.mirandastack.com](https://calculadora.mirandastack.com/)
+
 ## Miranda Stack
 
 O **Miranda Stack** reúne meus projetos, experiências e trabalhos relacionados a Linux, infraestrutura, redes, segurança e automação.
